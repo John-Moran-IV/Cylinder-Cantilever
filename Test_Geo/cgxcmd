@@ -1,0 +1,11 @@
+read /home/john/Desktop/CalculiX_Stuff/CalculiXLauncher-03beta-64bit-linux/Test_Geo/allinone.inp
+comp all do
+comp Nall do
+comp BOTTOM do
+comp TOPLQ do
+comp FIX do
+comp NFIX do
+writeinone
+read /home/john/Desktop/CalculiX_Stuff/CalculiXLauncher-03beta-64bit-linux/Test_Geo/allinone.inp
+write list
+exit

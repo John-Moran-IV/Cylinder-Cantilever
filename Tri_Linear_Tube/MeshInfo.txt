@@ -1,0 +1,126 @@
+---------
+Base information
+---------
+Name:  Tube_Mesh_7.5m
+Object:  Mesh
+Nodes:  19264
+Elements:
+  Total: 40528
+  Linear: 40528
+  Quadratic: 0
+  Bi-Quadratic: 0
+  0D:
+    Total: 0
+  Balls:
+    Total: 0
+  1D (edges):
+    Total: 2016
+    Linear: 2016
+    Quadratic: 0
+  2D (faces):
+    Total: 38512
+    Linear: 38512
+    Quadratic: 0
+    Bi-Quadratic: 0
+    Triangles:
+      Total: 38512
+      Linear: 38512
+      Quadratic: 0
+      Bi-Quadratic: 0
+    Quadrangles:
+      Total: 0
+      Linear: 0
+      Quadratic: 0
+      Bi-Quadratic: 0
+    Polygons:
+      Total: 0
+      Linear: 0
+      Quadratic: 0
+  3D (volumes):
+    Total: 0
+    Linear: 0
+    Quadratic: 0
+    Bi-Quadratic: 0
+    Tetrahedrons:
+      Total: 0
+      Linear: 0
+      Quadratic: 0
+    Hexahedrons:
+      Total: 0
+      Linear: 0
+      Quadratic: 0
+      Bi-Quadratic: 0
+    Pyramids:
+      Total: 0
+      Linear: 0
+      Quadratic: 0
+    Prisms:
+      Total: 0
+      Linear: 0
+      Quadratic: 0
+    Hexagonal Prisms:
+      Total: 0
+    Polyhedrons:
+      Total: 0
+
+------------
+Element information
+------------
+
+---------------
+Additional information
+---------------
+Name: Tube_Mesh_7.5m
+  Type: Based on geometry
+    Shape: Split_Tube
+  Groups
+    Nodes
+      BackFix
+        Type: Group on geometry
+          Shape: BackFix
+        Size: 5
+        Color: #ffaa00
+      FrontFix
+        Type: Group on geometry
+          Shape: FrontFix
+        Size: 5
+        Color: #ffaa00
+      BackTip
+        Type: Group on geometry
+          Shape: BackTip
+        Size: 5
+        Color: #ffaa00
+      FrontTip
+        Type: Group on geometry
+          Shape: FrontTip
+        Size: 5
+        Color: #ffaa00
+    Faces
+      FrontFace
+        Type: Group on geometry
+          Shape: FrontFace
+        Size: 19256
+        Color: #ffaa00
+        Underlying nodes: 10633
+      BackFace
+        Type: Group on geometry
+          Shape: BackFace
+        Size: 19256
+        Color: #ffaa00
+        Underlying nodes: 10633
+
+--------------------
+Quality information
+--------------------
+Name:  
+Nodes Information:
+  Number of the free nodes: 
+  Number of the double nodes: 
+Edges Information:
+  Number of the double edges: 
+Faces Information:
+  Number of the double faces: 
+  Number of the over-constrained: 
+Volumes Information:
+  Number of the double volumes: 
+  Number of the over-constrained: 
