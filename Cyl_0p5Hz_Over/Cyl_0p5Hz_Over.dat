@@ -1,0 +1,600 @@
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1000000E+00
+
+         2  1.771387E-06 -8.108458E-05 -2.157849E-07
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2000000E+00
+
+         2  5.375552E-06 -3.793952E-04 -1.063137E-06
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.3000000E+00
+
+         2  9.784776E-06 -9.749062E-04 -2.824095E-06
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.4000000E+00
+
+         2  1.378540E-05 -1.854059E-03 -5.476325E-06
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.5000000E+00
+
+         2  1.624953E-05 -2.896637E-03 -8.620896E-06
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.6000000E+00
+
+         2  1.643291E-05 -3.944593E-03 -1.171159E-05
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.7000000E+00
+
+         2  1.745692E-05 -4.942604E-03 -1.484575E-05
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.8500000E+00
+
+         2  2.320451E-05 -6.485619E-03 -2.190796E-05
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1000000E+01
+
+         2  2.961256E-05 -8.163834E-03 -3.316821E-05
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1150000E+01
+
+         2  3.279334E-05 -9.800848E-03 -4.678231E-05
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1300000E+01
+
+         2  3.316379E-05 -1.109876E-02 -5.939383E-05
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1450000E+01
+
+         2  3.825105E-05 -1.195297E-02 -7.145657E-05
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1600000E+01
+
+         2  4.487698E-05 -1.247591E-02 -8.645085E-05
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1750000E+01
+
+         2  4.903994E-05 -1.266913E-02 -1.038641E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1900000E+01
+
+         2  4.820462E-05 -1.233264E-02 -1.181101E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2050000E+01
+
+         2  5.245690E-05 -1.138730E-02 -1.271701E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2200000E+01
+
+         2  5.908250E-05 -1.002109E-02 -1.355551E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2350000E+01
+
+         2  6.406375E-05 -8.494043E-03 -1.458505E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2500000E+01
+
+         2  6.426973E-05 -6.871725E-03 -1.531539E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2650000E+01
+
+         2  6.754615E-05 -5.101430E-03 -1.527082E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2800000E+01
+
+         2  7.396839E-05 -3.314554E-03 -1.485933E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2950000E+01
+
+         2  7.960433E-05 -1.783963E-03 -1.470742E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.3100000E+01
+
+         2  8.099855E-05 -6.463214E-04 -1.459412E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.3250000E+01
+
+         2  8.319738E-05  1.603202E-04 -1.389416E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.3400000E+01
+
+         2  8.923017E-05  6.702707E-04 -1.279057E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.3550000E+01
+
+         2  9.535653E-05  7.306136E-04 -1.210666E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.3700000E+01
+
+         2  9.788451E-05  1.942657E-04 -1.200875E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.3850000E+01
+
+         2  9.895124E-05 -8.440792E-04 -1.180709E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.4000000E+01
+
+         2  1.044374E-04 -2.160738E-03 -1.128533E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.4150000E+01
+
+         2  1.108964E-04 -3.653136E-03 -1.118761E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.4300000E+01
+
+         2  1.144746E-04 -5.328443E-03 -1.197472E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.4450000E+01
+
+         2  1.143716E-04 -7.090911E-03 -1.301570E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.4600000E+01
+
+         2  1.191504E-04 -8.685637E-03 -1.367988E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.4750000E+01
+
+         2  1.257552E-04 -9.923163E-03 -1.440196E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.4900000E+01
+
+         2  1.302515E-04 -1.082211E-02 -1.584402E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.5050000E+01
+
+         2  1.297152E-04 -1.143271E-02 -1.759436E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.5200000E+01
+
+         2  1.336279E-04 -1.165726E-02 -1.876951E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.5350000E+01
+
+         2  1.401791E-04 -1.134549E-02 -1.944521E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.5500000E+01
+
+         2  1.454326E-04 -1.050841E-02 -2.037035E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.5650000E+01
+
+         2  1.461097E-04 -9.313098E-03 -2.151600E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.5800000E+01
+
+         2  1.490077E-04 -7.871188E-03 -2.202479E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.5950000E+01
+
+         2  1.552903E-04 -6.184554E-03 -2.167225E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.6100000E+01
+
+         2  1.611223E-04 -4.324030E-03 -2.122058E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.6250000E+01
+
+         2  1.629495E-04 -2.520279E-03 -2.107057E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.6400000E+01
+
+         2  1.647301E-04 -1.003035E-03 -2.060575E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.6625000E+01
+
+         2  1.745875E-04  5.411681E-04 -1.879334E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.6850000E+01
+
+         2  1.788907E-04  1.373752E-03 -1.702942E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.7075000E+01
+
+         2  1.837096E-04  1.615765E-03 -1.605395E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.7300000E+01
+
+         2  1.935168E-04  1.047872E-03 -1.505232E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.7525000E+01
+
+         2  1.956631E-04 -4.915640E-04 -1.424852E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.7750000E+01
+
+         2  2.023281E-04 -2.759955E-03 -1.473682E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.7975000E+01
+
+         2  2.116498E-04 -5.207286E-03 -1.609154E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.8200000E+01
+
+         2  2.114780E-04 -7.318092E-03 -1.732063E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.8425000E+01
+
+         2  2.196478E-04 -8.705839E-03 -1.891707E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.8650000E+01
+
+         2  2.279348E-04 -9.218161E-03 -2.111003E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.8875000E+01
+
+         2  2.276182E-04 -9.006759E-03 -2.260858E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.9100000E+01
+
+         2  2.368171E-04 -8.148305E-03 -2.311806E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.9325000E+01
+
+         2  2.436102E-04 -6.514446E-03 -2.348394E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.9550000E+01
+
+         2  2.456111E-04 -4.177329E-03 -2.321470E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.9775000E+01
+
+         2  2.553747E-04 -1.621145E-03 -2.165831E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1000000E+02
+
+         2  2.602734E-04  5.402915E-04 -1.982234E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1022500E+02
+
+         2  2.644551E-04  1.902761E-03 -1.832100E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1045000E+02
+
+         2  2.743135E-04  2.312930E-03 -1.657834E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1067500E+02
+
+         2  2.771004E-04  1.873283E-03 -1.494275E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1090000E+02
+
+         2  2.832225E-04  8.101259E-04 -1.439685E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1112500E+02
+
+         2  2.927193E-04 -8.121070E-04 -1.471205E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1135000E+02
+
+         2  2.932352E-04 -2.986327E-03 -1.527163E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1157500E+02
+
+         2  3.009858E-04 -5.408397E-03 -1.653230E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1180000E+02
+
+         2  3.096159E-04 -7.469297E-03 -1.864688E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1202500E+02
+
+         2  3.085765E-04 -8.658764E-03 -2.047594E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1225000E+02
+
+         2  3.175080E-04 -8.814399E-03 -2.168286E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1247500E+02
+
+         2  3.247722E-04 -8.051454E-03 -2.284779E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1270000E+02
+
+         2  3.260887E-04 -6.641694E-03 -2.336985E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1292500E+02
+
+         2  3.357310E-04 -4.813239E-03 -2.257583E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1315000E+02
+
+         2  3.412067E-04 -2.650347E-03 -2.122465E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1337500E+02
+
+         2  3.447415E-04 -3.143130E-04 -1.974381E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1360000E+02
+
+         2  3.546049E-04  1.729494E-03 -1.768588E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1382500E+02
+
+         2  3.580212E-04  2.912868E-03 -1.550296E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1405000E+02
+
+         2  3.635727E-04  2.975039E-03 -1.413221E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1427500E+02
+
+         2  3.732117E-04  2.047780E-03 -1.345792E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1450000E+02
+
+         2  3.743992E-04  4.608934E-04 -1.314135E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1472500E+02
+
+         2  3.816878E-04 -1.460884E-03 -1.370765E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1495000E+02
+
+         2  3.906062E-04 -3.525449E-03 -1.531016E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1517500E+02
+
+         2  3.894605E-04 -5.606444E-03 -1.701758E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1540000E+02
+
+         2  3.980798E-04 -7.410535E-03 -1.857147E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1562500E+02
+
+         2  4.057858E-04 -8.440282E-03 -2.036388E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1585000E+02
+
+         2  4.064029E-04 -8.331240E-03 -2.165655E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1607500E+02
+
+         2  4.158764E-04 -7.147898E-03 -2.176092E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1630000E+02
+
+         2  4.219032E-04 -5.277712E-03 -2.128850E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1652500E+02
+
+         2  4.247869E-04 -3.143264E-03 -2.042484E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1675000E+02
+
+         2  4.346237E-04 -1.025336E-03 -1.865152E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1697500E+02
+
+         2  4.386604E-04  9.305067E-04 -1.641766E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1720000E+02
+
+         2  4.436166E-04  2.547670E-03 -1.458103E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1742500E+02
+
+         2  4.533544E-04  3.474931E-03 -1.308431E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1765000E+02
+
+         2  4.551991E-04  3.334669E-03 -1.184264E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1787500E+02
+
+         2  4.619908E-04  2.074533E-03 -1.151824E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1810000E+02
+
+         2  4.711564E-04  6.632682E-05 -1.230565E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1832500E+02
+
+         2  4.706992E-04 -2.165864E-03 -1.347719E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1855000E+02
+
+         2  4.789537E-04 -4.240818E-03 -1.490872E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1877500E+02
+
+         2  4.870529E-04 -5.981598E-03 -1.691441E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1900000E+02
+
+         2  4.869588E-04 -7.280167E-03 -1.872668E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1922500E+02
+
+         2  4.962245E-04 -7.929508E-03 -1.967630E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1945000E+02
+
+         2  5.027789E-04 -7.628602E-03 -2.018901E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1967500E+02
+
+         2  5.049945E-04 -6.245457E-03 -2.016923E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.1990000E+02
+
+         2  5.147616E-04 -4.058467E-03 -1.904298E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2012500E+02
+
+         2  5.194031E-04 -1.637090E-03 -1.726264E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2035000E+02
+
+         2  5.237521E-04  5.146493E-04 -1.551033E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2057500E+02
+
+         2  5.335548E-04  2.158781E-03 -1.364684E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2080000E+02
+
+         2  5.360496E-04  3.234748E-03 -1.174936E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2102500E+02
+
+         2  5.423088E-04  3.660587E-03 -1.057789E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2125000E+02
+
+         2  5.516737E-04  3.250387E-03 -1.036177E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2147500E+02
+
+         2  5.518921E-04  1.863663E-03 -1.062659E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2170000E+02
+
+         2  5.597404E-04 -3.303152E-04 -1.148552E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2192500E+02
+
+         2  5.681918E-04 -2.801921E-03 -1.324424E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2215000E+02
+
+         2  5.673743E-04 -4.951563E-03 -1.513072E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2237500E+02
+
+         2  5.763771E-04 -6.437032E-03 -1.655650E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2260000E+02
+
+         2  5.834201E-04 -7.207897E-03 -1.786775E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2282500E+02
+
+         2  5.849546E-04 -7.295951E-03 -1.874586E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2305000E+02
+
+         2  5.946178E-04 -6.644557E-03 -1.850946E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2327500E+02
+
+         2  5.998472E-04 -5.158320E-03 -1.752267E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2350000E+02
+
+         2  6.035703E-04 -2.929467E-03 -1.624495E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2372500E+02
+
+         2  6.133965E-04 -3.925270E-04 -1.444552E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2395000E+02
+
+         2  6.165332E-04  1.828007E-03 -1.233297E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2417500E+02
+
+         2  6.222378E-04  3.274726E-03 -1.068536E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2440000E+02
+
+         2  6.317663E-04  3.849376E-03 -9.677922E-05
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2462500E+02
+
+         2  6.326532E-04  3.671030E-03 -9.033120E-05
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2485000E+02
+
+         2  6.400520E-04  2.824933E-03 -9.086714E-05
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2507500E+02
+
+         2  6.488048E-04  1.297620E-03 -1.017102E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2530000E+02
+
+         2  6.473492E-04 -8.550349E-04 -1.161009E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2552500E+02
+
+         2  6.560438E-04 -3.305610E-03 -1.301809E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2575000E+02
+
+         2  6.635405E-04 -5.475382E-03 -1.472389E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2597500E+02
+
+         2  6.643755E-04 -6.829830E-03 -1.620736E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2620000E+02
+
+         2  6.738827E-04 -7.178100E-03 -1.673937E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2642500E+02
+
+         2  6.796715E-04 -6.668676E-03 -1.667157E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2665000E+02
+
+         2  6.827571E-04 -5.525911E-03 -1.622716E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2687500E+02
+
+         2  6.925750E-04 -3.855469E-03 -1.496541E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2710000E+02
+
+         2  6.963443E-04 -1.716879E-03 -1.310523E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2732500E+02
+
+         2  7.014703E-04  6.598685E-04 -1.138733E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2755000E+02
+
+         2  7.111219E-04  2.787720E-03 -9.912618E-05
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2777500E+02
+
+         2  7.126712E-04  4.115108E-03 -8.571246E-05
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2800000E+02
+
+         2  7.195887E-04  4.354383E-03 -7.886861E-05
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2822500E+02
+
+         2  7.286037E-04  3.620090E-03 -8.197253E-05
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2845000E+02
+
+         2  7.278343E-04  2.237904E-03 -8.945446E-05
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2867500E+02
+
+         2  7.361721E-04  4.584664E-04 -9.955087E-05
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2890000E+02
+
+         2  7.440732E-04 -1.606742E-03 -1.158082E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2912500E+02
+
+         2  7.441933E-04 -3.802888E-03 -1.325168E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2935000E+02
+
+         2  7.535017E-04 -5.759708E-03 -1.429986E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2957500E+02
+
+         2  7.598250E-04 -6.966080E-03 -1.503235E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.2980000E+02
+
+         2  7.622494E-04 -7.066456E-03 -1.540549E-04
+
+ displacements (vx,vy,vz) for set TIPMARKER and time  0.3000000E+02
+
+         2  7.707281E-04 -6.272878E-03 -1.493656E-04
