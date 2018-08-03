@@ -1,0 +1,1 @@
+The different dynamic cases (with various RPS numbers) represents the loading frequency determined in the dflux.f user defined subroutine. Changing "Freq" in this subroutine will change the frequency in radians per second.
